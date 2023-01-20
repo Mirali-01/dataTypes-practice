@@ -1,0 +1,10 @@
+let a = "ayyyyyyyy";
+let b = "boooooooo";
+let c = "cold";
+let d = "drip";
+let e = "elevate";
+let f = "fool";
+let g = "great!";
+let h = "heyo";
+let i = "IDEK";
+let j = "nah just jk";
